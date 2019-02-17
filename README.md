@@ -1,4 +1,4 @@
 # imecon
 /image/*.png
 → /image/*.jpeg
-JPEGにへんっかん！
+transform png to jpeg
